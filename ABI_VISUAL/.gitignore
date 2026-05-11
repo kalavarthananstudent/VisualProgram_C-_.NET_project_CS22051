@@ -1,0 +1,24 @@
+## Visual Studio .gitignore
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+packages/
+*.nupkg
+*.log
+TestResults/
+[Bb]uild/
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.VC.opendb
